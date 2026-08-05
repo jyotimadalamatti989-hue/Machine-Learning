@@ -1,1 +1,14 @@
+# Google Teachable Machine
+https://teachablemachine.withgoogle.com/
 
+Google Teachable Machine is a free, web-based tool developed by Google that allows anyone to create Machine Learning models quickly without writing a single line of code. 
+It is designed for beginners to visually understand the core machine learning workflow.
+
+ Core Capabilities (What You Can Build)
+The platform allows you to create three types of machine learning models using your computer's camera, microphone, or uploaded files:
+Image Classification:
+Recognizes objects, faces, or colors using a webcam or image uploads.
+Audio Classification: 
+Recognizes short sounds like clapping, whistling, or specific words.
+Pose Detection: 
+Tracks body movements and recognizes physical positions or gestures.
