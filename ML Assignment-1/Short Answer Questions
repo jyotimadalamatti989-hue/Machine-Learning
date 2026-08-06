@@ -1,1 +1,34 @@
+Part C – Short Answer Questions
 
+1. Define Artificial Intelligence.
+Answer:A system or machine that mimics human intelligence to solve complex problems, reason, or learn.
+
+2. What is Machine Learning?
+Answer: A subset of AI that uses algorithms to find patterns in data and improve automatically from experience.
+
+3. Explain the difference between Traditional Programming and Machine Learning.
+Answer:Traditional Programming vs. Machine Learning
+  1)Traditional Programming:
+Input data + Rules \(\rightarrow \) Output answers.Programmers write explicit rules.
+  1)Machine Learning:
+Input data + Output answers \(\rightarrow \) Rules (Model).The system learns rules from data.
+
+4. What is Supervised Learning? Give one real-world example.
+Answer: Training a model using labeled data where both inputs and correct output answers are provided.
+Real-World Example: Predicting house prices based on historical sales data.
+
+5. Differentiate between Regression and Classification with examples.
+Answer:Regression vs. Classification
+Regression:
+Predicts a continuous numerical value.Example: Predicting a person's weight or a house price
+Classification:
+Predicts a discrete category or class label.Example: Email spam detection (spam or not spam).
+
+6. What are Features and Target Variables in the Advertising Dataset?
+Answer:Advertising Dataset VariablesFeatures: 
+The input variables used to make predictions, such as money spent on TV, radio, or newspaper ads.
+Target Variable: The output variable we want to predict, such as total product sales revenue.
+
+7. Why do we perform Train-Test Split?
+Answer:Train-Test SplitWe split data to train the model on one portion and test it on unseen data.
+This checks how well the model generalizes to new information and prevents overfitting.
