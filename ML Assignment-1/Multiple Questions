@@ -1,1 +1,37 @@
+Part A – Multiple Choice Questions:
+
+1. Machine Learning is a subset of
+a) Database
+b) Artificial Intelligence
+c) Networking
+d) Operating System
+Answer: b) Artificial Intelligence
+
+2. Which type of Machine Learning uses labelled data?
+a) Reinforcement Learning
+b) Supervised Learning
+c) Unsupervised Learning
+d) Deep Learning
+Answer:b) Supervised Learning
+
+3. Which of the following is a Regression problem?
+a) Email Spam Detection
+b) House Price Prediction
+c) Face Recognition
+d) Disease Detection
+Answer:b) House Price Prediction
+
+4. Which of the following is a Classification problem?
+a) Temperature Prediction
+b) Sales Prediction
+c) House Price Prediction
+d) Email Spam Detection
+Answer:d) Email Spam Detection
+
+5. Which column is the Target Variable in the Advertising Dataset?
+a) TV
+b) Radio
+c) Newspaper
+d) Sales
+Answer:d) Sales
 
