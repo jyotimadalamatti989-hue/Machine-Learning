@@ -1,1 +1,31 @@
+Main Assignment Answers:
+1). What equation did the model find?
+Equation: Exam Score = (Slope × attendance_percentage) + Intercept
+
+2). What is the new R² score?
+Insert the exact value displayed next to R2 Score: after running your updated notebook code.
+
+3. Which is a better predictor of exam scores?
+The feature that yields the higher R² score is the better predictor.
+
+4. How do you know?
+A higher R² score means the model explains a higher percentage of the variance in the exam scores, indicating a stronger relationship and better predictive power.
+
+Quick Self-Check Quiz:
+1. What does the slope represent?
+The change in the target variable (y) for every one-unit increase in the input feature (X).
+
+2. Why do we split data into training and testing?
+To evaluate how well the model performs on new, unseen data and prevent overfitting.
+
+3. What does an R² score of 1 mean?
+A perfect fit; the model explains 100% of the variance and makes flawless predictions.
+
+4. What are X and y?
+X: The independent variable or input feature (e.g., Attendance Percentage).
+y: The dependent variable or target output (e.g., Exam Score).
+
+5. What does .predict() do?
+It uses the trained model weights to calculate predicted output values for a given set of input data.
+
 
